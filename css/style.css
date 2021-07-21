@@ -1,3 +1,20 @@
-#img-div {
-    background-color: gray;
+
+#main{
+    background-color: #EEE;
+}
+#title{
+    text-align: center;
+    
+}
+#title h1{
+   
+   
+}
+#img-div{
+    width: 90%;
+    margin: auto;
+   
+}
+#image{
+    width: 100%;
 }
